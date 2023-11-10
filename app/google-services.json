@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "100364459955",
+    "project_id": "loginandregister-4be89",
+    "storage_bucket": "loginandregister-4be89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100364459955:android:464eced89f4d18d5b875c6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjKWi-AgDV9VuKKOHBs9kukhV9TBjc2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100364459955:android:0b51f3407a4ca904b875c6",
+        "android_client_info": {
+          "package_name": "com.example.tiktak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjKWi-AgDV9VuKKOHBs9kukhV9TBjc2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100364459955:android:d280b7ef916a7c55b875c6",
+        "android_client_info": {
+          "package_name": "com.example.videocontroller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByjKWi-AgDV9VuKKOHBs9kukhV9TBjc2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

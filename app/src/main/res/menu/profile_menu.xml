@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Tài khoản"
+        android:icon="@drawable/profile" />
+    <item
+        android:id="@+id/menu_permission"
+        android:title="Quyền riêng tư"
+        android:icon="@drawable/permission" />
+    <item
+        android:id="@+id/menu_security"
+        android:title="Bảo mật"
+        android:icon="@drawable/shield" />
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Đăng xuất"
+        android:icon="@drawable/logout" />
+</menu>
